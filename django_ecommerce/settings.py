@@ -153,7 +153,8 @@ RECAPTCHA_PUBLIC_KEY = '6LftJ6wZAAAAANJrMfgEZ2K-AkHkUbR_-4Bm12f2'
 
 RECAPTCHA_PRIVATE_KEY = '6LftJ6wZAAAAAMGGD891Cd6CWjT7N4xJFYnJ5NhG'
 
-STRIPE_SECRET_KEY =  "sk_test_4eC39HqLyjWDarjtT1zdp7dc"
+#STRIPE_SECRET_KEY =  "sk_test_4eC39HqLyjWDarjtT1zdp7dc"
+STRIPE_SECRET_KEY =  "sk_test_51LooCOE5APAQstyh9hI3K2BOgR6oVJKZIyXcPMkF9Hpc7nbtZIY37MELO7FCoMdZKA3rpL4xocQfogVedgIdduRD00wuZoLMlx"
 
 # debug email server, run with => python -m smtpd -n -c DebuggingServer localhost:1025
 EMAIL_HOST = 'localhost'
